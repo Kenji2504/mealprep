@@ -1,0 +1,1 @@
+kenji$ git config --global user.email "kenjid2504@gmail.com"
